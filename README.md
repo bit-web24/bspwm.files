@@ -1,5 +1,6 @@
 # bspwm.files
-Configuration files for setting up basic 'console only BSPWM' on Arch Linux.
+Configuration files for setting up basic 'console only BSPWM' on Arch Linux with Awesome Key bindings.
+In this environment you can also run GUI applications and browsers, but for that you need little more RAM.
 
 # Screenshots
 ![bit-web24](https://user-images.githubusercontent.com/62652273/120913811-94a3a700-c6b7-11eb-9909-74e2001a93f5.png)
